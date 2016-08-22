@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bobagem</string>
+    <string name="SignInTitle">Sign In</string>
+    <string name="LoginBtText">Login</string>
+    <string name="EmailHint">E-mail</string>
+    <string name="PasswordHint">Password</string>
+    <string name="tvTexto">Texto</string>
+    <string name="btClique">Clique</string>
+</resources>
